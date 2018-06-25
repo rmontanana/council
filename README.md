@@ -1,5 +1,6 @@
-#Forum - Laravel
-Aplicación de Forum creada con Laravel y la serie de Laracasts.com: 
+# Council - Laravel
+
+Aplicación de Foro creada con Laravel y la serie de Laracasts.com:  
 Let's build a Forum with Laravel.
 
 Notas desde el tutorial:
